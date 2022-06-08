@@ -1,5 +1,4 @@
 ### Hi there 👋
-My basic skills is ui design and I still basic in it.
 
 <!--
 **rakha-adit/rakha-adit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
